@@ -1,0 +1,24 @@
+Backgrounds -1600x600
+Field and sky
+file name: field.png
+
+Sprites - 
+50x50
+poro
+file name: poro.png
+
+75x75
+unicorn
+file name: unicorn.png
+
+10x2
+laser
+file name: laser.png
+
+75x75
+unicorn dematerializing
+file name: unicorndie.png
+
+Sounds -
+laser beam shoot
+laser.wav

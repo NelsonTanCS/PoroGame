@@ -1,0 +1,10 @@
+placeholderName is a 2D side-scrolling adventure. The player plays as a little fuzzball tasked with destroying all the unicorns using
+laser vision. The unicorns will jump around to avoid being hit by lasers. Unicorns that touch the player deduct a life from a starting pool of three.
+Destroying unicorns awards points which will display on the win or lose screen. 
+
+User Controls:
+W,S,Space
+
+W - Up
+S - Down
+Space - Shoot
